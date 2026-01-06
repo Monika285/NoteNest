@@ -2,7 +2,7 @@
 
 A modern notes application.
 
-## Features
+## Features :
 - Create and delete notes
 - Pin important notes
 - Search notes
